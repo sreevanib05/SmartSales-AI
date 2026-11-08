@@ -1,2 +1,2 @@
 # SmartSales-AI
-AI-Based Sales Prediction and Real-Time Analytics using Machine Learning and PySpark
+Real-World Retail Sales Prediction and Real-Time Big Data Analytics
